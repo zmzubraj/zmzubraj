@@ -1,52 +1,62 @@
 # Zubaer Mahmood Zubraj
 
-Senior Blockchain Architect and Protocol Engineer working at the intersection of AI, DeFi, smart contracts, privacy, and blockchain infrastructure.
+Lead Senior Blockchain Architect and Protocol Engineer building at the intersection of AI, DeFi, privacy, and decentralized infrastructure.
 
-I build systems around consensus design, protocol architecture, token mechanics, governance, and AI-assisted web3 products. My background spans 8+ years across blockchain engineering, dApp development, algorithmic trading systems, and technical leadership.
+I work on protocol design, smart contracts, governance systems, tokenomics, and AI-native blockchain products. My background spans 8+ years across blockchain engineering, dApp development, algorithmic trading systems, and technical leadership.
 
 ## Current work
 
-- Designing blockchain protocols and AI-native execution models
-- Building AI x Web3 products, agent systems, and data-centric applications
-- Working on governance automation, tokenomics, privacy-preserving infrastructure, and decentralized product architecture
+At LightChain AI, I am focused on protocol and execution-layer engineering for an AI-native blockchain stack:
 
-## Core areas
-
-- Protocol engineering: consensus mechanisms, hybrid consensus, Layer 2 design, tokenomics
-- Smart contracts: ERC20, ERC721, ERC1155, BRC20, DeFi primitives, DAO/governance systems
-- AI in web3: AI agents, model-integrated products, privacy-aware AI workflows
-- Infrastructure: Solidity, Rust, Go, TypeScript, Python, AWS, Hardhat, Web3.js, Web3.py, CCXT
+- Proof of Intelligence consensus design
+- AI virtual machine architecture for on-chain inference workloads
+- Privacy-preserving verification with zk systems and encrypted computation
+- Sharding, Layer 2 scaling, and decentralized model-training flows
 
 ## Selected public work
 
 - [APOLLO_Gov_Proposal_System](https://github.com/zmzubraj/APOLLO_Gov_Proposal_System)  
   LLM-driven governance framework for analyzing, forecasting, and drafting on-chain proposals.
 
+- [APOLLO research publication](https://www.mdpi.com/3657292)  
+  Autonomous Predictive On-Chain Legislative Learning Orchestrator.
+
 - [IsItAI](https://github.com/zmzubraj/IsItAI)  
   Browser-based detector for distinguishing AI-generated images from camera-captured photos.
 
 - [crypto_scalper_bot](https://github.com/zmzubraj/crypto_scalper_bot)  
-  Early-stage Binance Spot trading bot scaffold focused on async execution and configurable risk controls.
+  Experimental Binance Spot trading bot scaffold with async execution and config-driven risk controls.
 
-- [APOLLO publication](https://www.mdpi.com/3657292)  
-  Research work on autonomous predictive governance for blockchain networks.
+## Experience
 
-## Experience highlights
+- **LightChain AI**  
+  Lead Senior Blockchain Architect and Protocol Engineer working on AI-integrated consensus, execution, privacy, and scalability.
 
-- Lead Senior Blockchain Architect and Protocol Engineer at LightChain AI
-- Former CTO (Blockchain) at FameGuild, leading AI-web3 architecture, DeFi/NFT systems, and protocol initiatives
-- Built across Bitcoin L2, Ethereum ecosystems, ordinals, governance frameworks, and privacy-oriented blockchain systems
-- Worked on protocol ideas involving zk-SNARKs, homomorphic encryption, federated learning, sharding, and AI-linked execution environments
+- **FameGuild**  
+  Chief Technical Officer (Blockchain), leading AI x Web3 systems, DeFi and NFT products, hybrid-consensus R&D, and blockchain product execution.
 
-## Current focus themes
+- **HSR Labs**  
+  Lead Blockchain and dApp Developer building DeFi integrations, smart contracts, trading systems, and async data pipelines.
 
-- AI agents in decentralized environments
-- Governance automation and protocol decision systems
-- Privacy-preserving blockchain infrastructure
-- Practical full-stack web3 products with strong technical foundations
+- **ZTech Incorporation**  
+  CTO and Blockchain Expert leading R&D in consensus mechanisms, DeFi, tokenomics, and decentralized applications.
 
-## Contact
+## Areas I build in
+
+- Protocol engineering: consensus design, hybrid consensus, Layer 2 systems, tokenomics, governance
+- Smart contracts: ERC20, ERC721, ERC1155, BRC20, DAOs, NFT infrastructure, DeFi primitives
+- AI in Web3: AI agents, AI-linked execution, privacy-aware AI systems, model-integrated products
+- Privacy and security: zk-SNARKs, privacy-preserving computation, secure smart-contract design
+- Stack: Solidity, Rust, Go, TypeScript, Python, Web3.js, Web3.py, Hardhat, AWS, CCXT
+
+## Writing
+
+- [APOLLO: Autonomous Predictive On-Chain Legislative Learning Orchestrator](https://www.mdpi.com/3657292)
+- [FameChain: A New Decentralized Internet](https://www.studocu.com/row/document/east-delta-university/digital-system-design/fame-chain-whitepaper/122295298)
+- [Cross-Chain CBDC - Smart TAKA](https://www.studocu.com/row/document/east-delta-university/digital-system-design/fame-chain-whitepaper/122295298)
+
+## Connect
 
 - Email: [zmzubraj@gmail.com](mailto:zmzubraj@gmail.com)
 - Website: [fameguild.com](https://fameguild.com)
-- GitHub: [github.com/zmzubraj](https://github.com/zmzubraj)
+- LinkedIn: [in/zubraj](https://www.linkedin.com/in/zubraj)
