@@ -58,5 +58,3 @@ At LightChain AI, I am focused on protocol and execution-layer engineering for a
 ## Connect
 
 - Email: [zmzubraj@gmail.com](mailto:zmzubraj@gmail.com)
-- Website: [fameguild.com](https://fameguild.com)
-- LinkedIn: [in/zubraj](https://www.linkedin.com/in/zubraj)
