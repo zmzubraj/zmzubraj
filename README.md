@@ -2,13 +2,13 @@
 
 <img src="./assets/profile-hero.svg" alt="Zubaer Mahmood Zubraj — Blockchain, AI, and trustworthy digital systems" width="100%" />
 
-### Senior Blockchain Architect · Protocol Engineer · Information Systems Researcher
+### Senior Blockchain Architect · AI Systems Engineer · Information Systems Researcher
 
-I design and study trustworthy digital infrastructure at the intersection of **DLT, AI, privacy, security, and digital finance**. My work connects 8+ years of protocol and product engineering with evidence-gated research: build the artefact, test the claim, preserve the failure boundary, and translate the result into a decision that organisations can trust.
+I am a researcher-engineer working at the intersection of **DLT, AI, privacy, security, and digital finance**. Across 8+ years in protocol and product engineering, I have moved between architecture, smart contracts, AI-enabled systems, full-stack delivery, technical leadership, and research. That range shapes how I work: build the artefact, test the claim, preserve the failure boundary, and translate the result into a decision that organisations can trust.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--3251--3385-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3251-3385) [![Peer-reviewed paper](https://img.shields.io/badge/Peer--reviewed-APOLLO-0A66C2?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.3390/digital6010003) [![Email](https://img.shields.io/badge/Email-zmzubraj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zmzubraj@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-zmzubraj-181717?style=flat-square&logo=github)](https://github.com/zmzubraj)
 
-**Open to doctoral research in Information Systems Engineering in Luxembourg and senior international Blockchain × AI R&D roles.**
+**Open to [doctoral research in Information Systems Engineering](https://www.uni.lu/en/jobs/doctoral-researcher-in-information-systems-engineering-spontaneous-applications/) in Luxembourg and senior international Blockchain × AI R&D roles.**
 
 </div>
 
@@ -47,13 +47,32 @@ bounded evidence for technical and organisational decisions
 
 This is where my engineering background meets Information Systems Engineering: decentralised technologies are not only code and cryptography; they are socio-technical systems shaped by governance, incentives, regulation, institutions, users, and public value.
 
-## Senior Blockchain × AI engineering
+## Research depth, engineering range
 
-- **Protocol architecture:** consensus, cryptoeconomic incentives, governance, evidence/receipt lifecycles, Layer 2, sharding, and decentralised AI execution.
-- **Smart contracts and DeFi:** Solidity/EVM systems, token standards, AMMs, lending/borrowing, staking, DAOs, testing, and adversarial design review.
-- **AI systems:** LLM agents, governance automation, inference provenance, privacy-aware AI workflows, browser ONNX inference, and reproducible model evaluation.
-- **Security and privacy:** threat modelling, invariants, fail-closed gates, zero-knowledge and threshold-cryptography concepts, encrypted computation, and benchmark validity.
-- **Technical leadership:** architecture ownership, multidisciplinary collaboration, research-to-prototype translation, delivery planning, and technical communication.
+My edge is the ability to carry a difficult idea across the full system boundary: from protocol reasoning and threat models into implementation, tests, data pipelines, operator-facing interfaces, and evidence that a technical or organisational stakeholder can inspect.
+
+- **Blockchain protocols:** consensus, cryptoeconomic incentives, governance, evidence and receipt lifecycles, Layer 2, sharding, decentralised AI execution, and cross-chain system boundaries.
+- **Smart contracts and DeFi:** Solidity/EVM contract systems, AMMs, staking, lending and borrowing, DAOs, token lifecycles, deployment workflows, testing, and adversarial design review.
+- **AI-enabled systems:** LLM agents, retrieval and governance automation, predictive pipelines, inference provenance, browser ONNX execution, and reproducible evaluation.
+- **Software engineering:** Python services and data workflows; typed TypeScript/React/Next.js applications; Go and Rust protocol components; interface-driven adapters; asynchronous processing; deterministic state machines; and testable failure handling.
+- **Security, privacy, and reliability:** threat modelling, invariants, fail-closed gates, multi-provider resilience, zero-knowledge and threshold-cryptography concepts, encrypted computation, and benchmark-validity controls.
+- **Technical leadership:** architecture ownership, multidisciplinary team leadership, project planning, research-to-prototype translation, design review, and precise communication across engineering, business, and research audiences.
+
+### Selected engineering evidence
+
+| System | What the public repository demonstrates | My scope / evidence boundary |
+|---|---|---|
+| [**APOLLO Governance System**](https://github.com/zmzubraj/APOLLO_Gov_Proposal_System) | Modular Python pipeline for governance-data collection, LLM analysis and drafting, forecasting, proposal workflows, community connectors, persistence, and automated tests | Original research and engineering system connected to the peer-reviewed APOLLO paper; advanced autonomous execution remains development work |
+| [**LightChain protocol ecosystem**](https://github.com/lightchain-protocol) | Node onboarding and staking, AIVM inference flows, challenge-bond escrow, typed dApp surfaces, and Go-based consensus/validator/worker components | Public **team contributions** made in senior protocol-engineering roles; not presented as single-author repositories |
+| [**AMM DEX V2**](https://github.com/ZTech-Inc/AMM_DEX_V2) | Solidity AMM factory, pair and router contracts; zap flow; interfaces and libraries; Hardhat deployment and test scaffolding | Commit-attributed ZTech-Inc engineering work; evidence supports implementation and testing, not an unverified production-volume claim |
+| [**IsItAI**](https://github.com/zmzubraj/IsItAI) | Privacy-preserving browser analysis with client-side ONNX, image heuristics, Web Workers, PWA support, PDF evidence export, accessibility work, and tests | Original full-stack TypeScript/Next.js implementation; the published sample accuracy is not claimed as external model validation |
+| [**Failband**](https://github.com/ZTech-Inc/failband) · [**Sourcewright**](https://github.com/ZTech-Inc/sourcewright) | Full-stack product studies of multi-provider blockchain RPC resilience and multi-explorer smart-contract verification, with typed adapters, explicit system states, documentation surfaces, and test suites | Public ZTech-Inc **portfolio implementations** using realistic mock data and swappable adapters; demonstrations of software architecture, not live infrastructure claims |
+
+### How I engineer
+
+1. **Start with the failure boundary.** Define what must never be inferred, credited, executed, or trusted when evidence is missing.
+2. **Make the system inspectable.** Use typed interfaces, explicit state transitions, reproducible inputs, testable components, and audit-ready outputs.
+3. **Connect implementation to consequence.** Evaluate not only whether code runs, but whether its assumptions, controls, and evidence are sufficient for the people and institutions relying on it.
 
 ### Professional trajectory
 
@@ -63,13 +82,6 @@ This is where my engineering background meets Information Systems Engineering: d
 | **Chief Technical Officer (Blockchain) — FameGuild** | AI × Web3 R&D, hybrid consensus, DeFi, NFT infrastructure, and multidisciplinary engineering leadership |
 | **Lead Blockchain & dApp Developer — HSR Labs** | DeFi integrations, smart contracts, trading systems, asynchronous data pipelines, and team leadership |
 | **CTO & Blockchain Expert — ZTech Incorporation** | Protocol R&D, tokenomics, governance, smart-contract systems, and research-to-product strategy |
-
-### Selected public engineering evidence
-
-- [**APOLLO Governance System**](https://github.com/zmzubraj/APOLLO_Gov_Proposal_System) — original Python/LLM/Web3 governance implementation connected to the peer-reviewed paper.
-- [**IsItAI**](https://github.com/zmzubraj/IsItAI) — original TypeScript/Next.js application with client-side ONNX inference and privacy-preserving local image analysis.
-- [**AMM DEX V2**](https://github.com/ZTech-Inc/AMM_DEX_V2) — Solidity/EVM AMM, Hardhat testing, and deployment work with commit-linked contribution evidence.
-- [**LightChain protocol ecosystem**](https://github.com/lightchain-protocol) — public team contributions spanning node onboarding/staking, AIVM inference, challenge-bond escrow, typed dApps, and protocol-support tooling.
 
 ## Methods and technology
 
