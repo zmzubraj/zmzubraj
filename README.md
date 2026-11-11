@@ -4,7 +4,7 @@
 
 ### Senior Blockchain Architect · AI Systems Engineer · Information Systems Researcher
 
-I am a researcher-engineer working at the intersection of **DLT, AI, privacy, security, and digital finance**. Across 8+ years in protocol and product engineering, I have moved between architecture, smart contracts, AI-enabled systems, full-stack delivery, technical leadership, and research. That range shapes how I work: build the artefact, test the claim, preserve the failure boundary, and translate the result into a decision that organisations can trust.
+I am a researcher-engineer working at the intersection of **DLT, AI, privacy, security, and digital finance**. Across 10 years in protocol and product engineering, I have moved between architecture, smart contracts, AI-enabled systems, full-stack delivery, technical leadership, and research. That range shapes how I work: build the artefact, test the claim, preserve the failure boundary, and translate the result into a decision that organisations can trust.
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--3251--3385-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-3251-3385) [![Peer-reviewed paper](https://img.shields.io/badge/Peer--reviewed-APOLLO-0A66C2?style=flat-square&logo=doi&logoColor=white)](https://doi.org/10.3390/digital6010003) [![Email](https://img.shields.io/badge/Email-zmzubraj%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zmzubraj@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-zmzubraj-181717?style=flat-square&logo=github)](https://github.com/zmzubraj)
 
